@@ -1,2 +1,2 @@
-# My_first_prog
-This is my first program.
+# My_first
+This is my first git repository.
